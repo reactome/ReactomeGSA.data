@@ -1,0 +1,11 @@
+Package: ReactomeGSA.data
+Type: Package
+Title: Companion data package for the ReactomeGSA package
+Version: 0.1.0
+Authors@R: person("Johannes", "Griss", email = "johannes.griss@meduniwien.ac.at", role = c("aut", "cre"))
+Description: Companion data sets to showcase the functionality of the ReactomeGSA package.
+    This package contains proteomics and RNA-seq data of the melanoma B-cell induction study by Griss et al.
+License: Artistic-2.0
+Encoding: UTF-8
+Depends: R (>= 2.15), limma, edgeR
+RoxygenNote: 6.1.1

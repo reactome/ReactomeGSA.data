@@ -21,4 +21,4 @@ install_github("reactome/ReactomeGSA.data")
 This data is part of the study:
 
 B cells sustain inflammation and predict response to immune checkpoint blockade in human melanoma
-Johannes Griss, *et al.* bioRxiv 478735; doi: https://doi.org/10.1101/478735 
+J Griss, *et al.* bioRxiv 478735; doi: https://doi.org/10.1101/478735 

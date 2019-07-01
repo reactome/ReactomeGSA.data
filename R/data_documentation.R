@@ -7,7 +7,7 @@
 #'
 #' @author Johannes Griss \email{johannes.griss@meduniwien.ac.at}
 #' @references Griss et al., bioRxiv 478735; doi: https://doi.org/10.1101/478735
-"melanoma_proteomics"
+"griss_melanoma_proteomics"
 
 #' Raw RNA-seq read counts from the B-Cell
 #' melanoma induction study by Griss et al.
@@ -17,4 +17,13 @@
 #'
 #' @author Johannes Griss \email{johannes.griss@meduniwien.ac.at}
 #' @references Griss et al., bioRxiv 478735; doi: https://doi.org/10.1101/478735
-"melanoma_rnaseq"
+"griss_melanoma_rnaseq"
+
+#' Example Camera result created based on the
+#' melanoma induction study by Griss et al.
+#'
+#' The result is stored as a \code{\link[ReactomeGSA]{ReactomeAnalysisResult}} object.
+#'
+#' @author Johannes Griss \email{johannes.griss@meduniwien.ac.at}
+#' @references Griss et al., bioRxiv 478735; doi: https://doi.org/10.1101/478735
+"griss_melanoma_result"

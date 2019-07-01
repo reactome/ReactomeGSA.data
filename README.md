@@ -1,6 +1,6 @@
 # ReactomeGSA.data
 
-This R package provides example data used by the [ReactomeGSA](https://github.com/reactome/ReactomeGSA).
+This R package provides example data used by the [ReactomeGSA](https://github.com/reactome/ReactomeGSA) R package.
 
 The data sets to showcase the functionality of the ReactomeGSA package. This package contains proteomics and RNA-seq data of the melanoma B-cell induction study by Griss et al.
 

@@ -10,7 +10,7 @@ melanoma induction study by Griss et al.}
 griss_melanoma_result
 }
 \description{
-The result is stored as a \code{\link[ReactomeGSA]{ReactomeAnalysisResult}} object.
+The result is stored as a \code{\link[ReactomeGSA]{ReactomeAnalysisResult-class}} object.
 }
 \references{
 Griss et al., bioRxiv 478735; doi: https://doi.org/10.1101/478735

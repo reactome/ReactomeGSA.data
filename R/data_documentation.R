@@ -6,7 +6,7 @@
 #' on the PSM level prior to protein-level aggregation.
 #'
 #' @author Johannes Griss \email{johannes.griss@meduniwien.ac.at}
-#' @references Griss et al., bioRxiv 478735; doi: https://doi.org/10.1101/478735
+#' @references Griss et al., Nat Commun. 2019 10(1):4186. doi: 10.1038/s41467-019-12160-2
 "griss_melanoma_proteomics"
 
 #' Raw RNA-seq read counts from the B-Cell
@@ -16,7 +16,7 @@
 #' read counts per gene.
 #'
 #' @author Johannes Griss \email{johannes.griss@meduniwien.ac.at}
-#' @references Griss et al., bioRxiv 478735; doi: https://doi.org/10.1101/478735
+#' @references Griss et al., Nat Commun. 2019 10(1):4186. doi: 10.1038/s41467-019-12160-2
 "griss_melanoma_rnaseq"
 
 #' Example Camera result created based on the
@@ -25,5 +25,5 @@
 #' The result is stored as a \code{\link[ReactomeGSA]{ReactomeAnalysisResult-class}} object.
 #'
 #' @author Johannes Griss \email{johannes.griss@meduniwien.ac.at}
-#' @references Griss et al., bioRxiv 478735; doi: https://doi.org/10.1101/478735
+#' @references Griss et al., Nat Commun. 2019 10(1):4186. doi: 10.1038/s41467-019-12160-2
 "griss_melanoma_result"

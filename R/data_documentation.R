@@ -27,3 +27,12 @@
 #' @author Johannes Griss \email{johannes.griss@meduniwien.ac.at}
 #' @references Griss et al., Nat Commun. 2019 10(1):4186. doi: 10.1038/s41467-019-12160-2
 "griss_melanoma_result"
+
+#' Example Seurat object containing B cells
+#' extracted from the single-cell RNA-seq
+#' dataset published by Jerby-Arnon et al.
+#'
+#' This result is stored as a \code{Seurat} object.
+#'
+#' @references Jerby-Arnon et al., Cell 2018 1;175(4):984-997.e24. doi:10.1016/j.cell.2018.09.006
+"jerby_b_cells"

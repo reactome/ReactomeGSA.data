@@ -14,7 +14,7 @@ The data is available as a \code{\link[edgeR]{DGEList}} object containing
 read counts per gene.
 }
 \references{
-Griss et al., bioRxiv 478735; doi: https://doi.org/10.1101/478735
+Griss et al., Nat Commun. 2019 10(1):4186. doi: 10.1038/s41467-019-12160-2
 }
 \author{
 Johannes Griss \email{johannes.griss@meduniwien.ac.at}

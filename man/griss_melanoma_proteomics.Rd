@@ -15,7 +15,7 @@ the aggregated protein intensity values. Normalisation was already performed
 on the PSM level prior to protein-level aggregation.
 }
 \references{
-Griss et al., bioRxiv 478735; doi: https://doi.org/10.1101/478735
+Griss et al., Nat Commun. 2019 10(1):4186. doi: 10.1038/s41467-019-12160-2
 }
 \author{
 Johannes Griss \email{johannes.griss@meduniwien.ac.at}
